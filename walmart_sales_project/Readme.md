@@ -16,7 +16,8 @@ The data for this project was downloaded using the Kaggle API. To do so, I used 
 For this project, I used PostgreSQL as the database to store and manage the data. The SQL queries used for data extraction and transformation can be found in the *sql_queries.sql* file. I have stored the necessary database credentials (e.g., username, password, host, port, and database name) in a .env file for security reasons. Please ensure you create your own .env file with appropriate credentials before running the code.
 
 ### Requirements
-The project dependencies can be found in the requirements.txt file. To install the necessary Python packages, you can run the following:
-    ```bash
-    pip install -r requirements.txt
+The project dependencies can be found in the `requirements.txt` file. To install the necessary Python packages, you can run the following command:
+
+```bash
+pip install -r requirements.txt
 
