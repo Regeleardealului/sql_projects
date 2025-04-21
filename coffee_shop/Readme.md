@@ -13,4 +13,4 @@ The data for this project was downloaded using the Kaggle API. To do so, I used 
    kaggle datasets download -d username_of_the_dataset_provider/name_of_the_dataset_on_kaggle
 
 ### Database
-For this project, I used PostgreSQL as the database to store and manage the data.
+For this project, I used PostgreSQL as the database to store and manage the data. Firstly I have created the schema for the tables, which can be viwed in `structure.sql` file and the queries I solved are present inside the `queries.sql` file.
