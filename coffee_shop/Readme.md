@@ -4,7 +4,7 @@
 ## Project Overview
 
 ### Getting the data
-The data for this project was downloaded using the Kaggle API. To do so, I used an API key that was saved as a JSON file. If you wish to download the dataset in the same way, follow these steps:
+I've get this data through this link 👉[Link for the dataset](https://www.kaggle.com/datasets/najir0123/monday-coffee-sql-data-analysis-project/?select=city.csv). The data for this project was downloaded using the Kaggle API. To do so, I used an API key that was saved as a JSON file. If you wish to download the dataset in the same way, follow these steps:
 1. Obtain your Kaggle API key by visiting [Kaggle's API page](https://www.kaggle.com/docs/api).
 2. Download the `kaggle.json` file and place it in the following directory: `C:\users\your_user_name\.kaggle\kaggle.json`.
 3. To download the dataset, run the following command in your terminal:
